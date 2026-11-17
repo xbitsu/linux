@@ -1,3 +1,4 @@
 # Linux
 
-[Releases](https://github.com/xbitsu-dev/linux/releases)
+[Releases](https://github.com/xbitsu/linux/releases)
+s
