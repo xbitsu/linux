@@ -18,7 +18,7 @@ sudo pacman -U ./xbit-amd64.pkg.tar.zst
 ## Launch
 Start xbit from the application menu, or run:
 ```bash
-xbit
+sudo xbit
 ```
 
 The first VPN connection asks for the administrator password once.
